@@ -19,7 +19,7 @@ Key Findings and Recommendations:
 15- Understanding Power BI Gateway: Explored Power BI Gateway's functionalities and use cases for efficient data integration.
 16- District Relationship Analysis: Investigated the relationship between districts and district IDs for seamless data integration.
 
-Getting Started:- 1- Clone the repository to your local machine: git clone https://github.com/Gaurav-Singh-DS/Zomato-Data-Analysis.git 2- Navigate to the project directory: cd Zomato-Data-Analysis 3- Explore the dataset, scripts, and documentation provided in the repository to understand the project components and methodologies used.
+Getting Started:- 1- Clone the repository to your local machine: git clone https://github.com/Gaurav-Singh-DS/Power-BI-Project.git 2- Navigate to the project directory: cd Power-BI-Project 3- Explore the dataset, scripts, and documentation provided in the repository to understand the project components and methodologies used.
 
 Dependencies:- Power BI basic and advance DAX formula and visuals.
 
